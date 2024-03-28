@@ -1,3 +1,7 @@
+"""
+created by: Quincy Cambrel
+"""
+
 import os
 import cv2
 import time
